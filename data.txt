@@ -1,0 +1,8 @@
+14.10.22 15:45 Kharkiv-Krakow
+30.10.22 15:48 Bucharest-Oslo
+16.11.22 10:10 Vienna-Milan
+19.11.22 11:05 London-Toronto
+07.12.22 19:08 NewYork-LosAngeles
+17.12.22 13:30 Berlin-Munich
+24.12.22 00:00 NorthPole-YourHouse
+16.01.23 17:05 Toronto-Vancouver
